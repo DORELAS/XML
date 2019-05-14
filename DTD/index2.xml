@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Mon Apr 22 13:08:10 CEST 2019 -->
+
+
+<!DOCTYPE people [
+
+<!ELEMENT people (husband)*>
+<!ATTLIST husband employed CDATA "yes">
+
+<!ELEMENT husband (name, age, wife)>
+<!ELEMENT name (#PCDATA)*>
+<!ELEMENT age (#PCDATA)*>
+<!ELEMENT wife (wname, age)*>
+<!ELEMENT wname (#PCDATA)*>
+
+]>
+
+
+<people>
+
+
+<husband employed="yes">
+
+<name>John</name>
+
+<age>35</age>
+
+<wife>
+
+<wname>Sara</wname>
+
+<age>22</age>
+
+</wife>
+
+</husband>
+
+
+
+<husband employed="no">
+
+<name>Mark</name>
+
+<age>75</age>
+
+<wife>
+
+<wname>Milena</wname>
+
+<age>59</age>
+
+</wife>
+
+</husband>
+
+
+</people>
+

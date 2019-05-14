@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Tue Apr 23 13:21:37 CEST 2019 -->
+
+
+<?xml-stylesheet type="text/xsl" href="index4.xsl"?>
+
+<people>
+
+
+<husband employed="yes">
+
+<name>John</name>
+
+<age>35</age>
+
+<wife>
+
+<wname>Sara</wname>
+
+<age>22</age>
+
+</wife>
+
+</husband>
+
+
+
+<husband employed="yes">
+
+<name>John</name>
+
+<age>35</age>
+
+<wife>
+
+<wname>Sara</wname>
+
+<age>22</age>
+
+</wife>
+
+</husband>
+
+
+
+<husband employed="yes">
+
+<name>John</name>
+
+<age>35</age>
+
+<wife>
+
+<wname>Sara</wname>
+
+<age>22</age>
+
+</wife>
+
+</husband>
+
+
+
+<husband employed="yes">
+
+<name>John</name>
+
+<age>35</age>
+
+<wife>
+
+<wname>Sara</wname>
+
+<age>22</age>
+
+</wife>
+
+</husband>
+
+
+<husband employed="no">
+
+<name >Mark</name>
+
+<age>75</age>
+
+<wife>
+
+<wname>Milena</wname>
+
+<age>59</age>
+
+</wife>
+
+</husband>
+
+
+</people>

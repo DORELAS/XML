@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+<file open="false" path="C:\Users\Dorela\Desktop\xml_project\First_doc.xml" type="XML">
+<param name="lastView" value="Source"/>
+<param name="encoding" value="AUTOMATIC"/>
+</file>
+<file path="C:\Users\Dorela\Desktop\xml_project"/>
+<file open="false" path="C:\Users\Dorela\Desktop\xml_project\First_doc.css" type="CSS">
+<param name="encoding" value="AUTOMATIC"/>
+<param name="lastView" value="Source"/>
+</file>
+<file open="false" path="C:\Users\Dorela\Desktop\xml_project\DTD\index.xml" type="XML">
+<param name="encoding" value="AUTOMATIC"/>
+<param name="lastView" value="Source"/>
+</file>
+<file path="C:\Users\Dorela\Desktop\xml_project\DTD"/>
+<file open="true" path="C:\Users\Dorela\Desktop\xml_project\DTD\index2.xml" type="XML">
+<param name="lastView" value="Source"/>
+<param name="encoding" value="AUTOMATIC"/>
+</file>
+<file open="true" path="C:\Users\Dorela\Desktop\xml_project\DTD\skeme.dtd" type="DTD"/>
+<file open="true" path="C:\Users\Dorela\Desktop\xml_project\DTD\index.css" type="CSS"/>
+<file open="true" path="C:\Users\Dorela\Desktop\xml_project\XSL" type="XML"/>
+<file open="false" path="C:\Users\Dorela\Desktop\xml_project\XSL\index3.xml" type="XML">
+<param name="lastView" value="Source"/>
+</file>
+<file open="false" path="C:\Users\Dorela\Desktop\xml_project\XSL\index2.xml" type="XML">
+<param name="lastView" value="Source"/>
+</file>
+<file open="false" path="C:\Users\Dorela\Desktop\xml_project\XSL\index2.xsl" type="XSLT"/>
+<file open="false" path="C:\Users\Dorela\Desktop\xml_project\XSL\index3.xslt" type="XSLT">
+<param name="encoding" value="AUTOMATIC"/>
+<param name="lastView" value="Source"/>
+<param name="maximized.editor" value="true"/>
+</file>
+<file open="false" path="C:\Users\Dorela\Desktop\xml_project\XSL\index4.xslt" type="XSLT">
+<param name="encoding" value="AUTOMATIC"/>
+<param name="lastView" value="Source"/>
+</file>
+</root>

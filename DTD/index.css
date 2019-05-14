@@ -1,0 +1,21 @@
+
+husband {
+font-family: Times;
+font-weight:bold;
+text-align: center;
+margin-bottom: 20px;
+display: block;
+color: purple;
+font-size: 16px;
+font-style: italic;
+border:outset;
+background-color: orange;
+width: 300px;
+padding: 26;
+}
+
+wife {
+display: block;
+color: royalblue;
+font-size: 16px;
+}
